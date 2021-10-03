@@ -6,3 +6,6 @@ this is 5th line
 this is 6th line
 this is 7th line
 this is 8th line
+DB version 01: username
+DB version 01: password
+DB version 01: secret key
