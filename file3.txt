@@ -9,3 +9,6 @@ this is 8th line
 DB version 01: username
 DB version 01: password
 DB version 01: secret key
+DB version 02 : username
+DB version 02 : password
+DB version 02 : secret key
